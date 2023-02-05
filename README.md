@@ -14,8 +14,8 @@ Follow the steps to install rust on your machine [here](https://www.rust-lang.or
     - [Windows](https://docs.rust-embedded.org/book/intro/install/windows.html)
 4. Optional but recommended install [gdbgui](https://www.gdbgui.com/installation/) to get a more visual debugging environment
 5. Clone this repo to your machine or use [cargo-generate](https://github.com/cargo-generate/cargo-generate).
-    1. `cargo generate --git https://github.com/Atrociously/isu-cybot-template`
-    2. `git clone https://github.com/Atrociously/isu-cybot-template`
+    1. `cargo generate --git https://github.com/Atrociously/cybot-template`
+    2. `git clone https://github.com/Atrociously/cybot-template`
 
 ### The Starter Code
 In the project you just downloaded in the `src/` directory is your main.rs which should look like this
