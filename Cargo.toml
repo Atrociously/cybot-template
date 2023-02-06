@@ -1,10 +1,10 @@
 cargo-features = ["per-package-target"]
 
 [package]
-authors = ["Jack Morrison <jackmorr@iastate.edu>"]
+authors = ["{{authors}}"]
 edition = "2021"
 readme = "README.md"
-name = "cyrstest"
+name = "{{project-name}}"
 version = "0.1.0"
 forced-target = "thumbv7em-none-eabihf"
 
