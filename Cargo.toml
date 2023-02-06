@@ -6,8 +6,6 @@ name = "{{project-name}}"
 version = "0.1.0"
 
 [dependencies]
-cortex-m-rt = "0.7"
-cortex-m-semihosting = "0.5"
 cybot = { git = "https://github.com/Atrociously/cybot" }
 
 [profile.release]
