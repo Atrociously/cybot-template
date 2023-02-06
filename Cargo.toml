@@ -1,12 +1,9 @@
-cargo-features = ["per-package-target"]
-
 [package]
 authors = ["{{authors}}"]
 edition = "2021"
 readme = "README.md"
 name = "{{project-name}}"
 version = "0.1.0"
-forced-target = "thumbv7em-none-eabihf"
 
 [dependencies]
 cortex-m-rt = "0.7"
