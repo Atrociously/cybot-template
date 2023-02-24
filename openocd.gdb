@@ -36,5 +36,6 @@ monitor arm semihosting enable
 
 load
 
-# start the process but immediately halt the processor
-stepi
+# start the process but stop at main
+continue
+continue
