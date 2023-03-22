@@ -38,4 +38,4 @@ load
 
 # start the process but stop at main
 continue
-continue
+stepi
