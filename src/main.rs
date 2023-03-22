@@ -1,9 +1,9 @@
 #![no_std]
 #![no_main]
 
-use cybot::{entry, CyBot};
+use cybot::entry;
 
 #[entry]
-fn main(cybot: &CyBot) {
+fn main() -> ! {
     // Your Code Goes Here!
 }
